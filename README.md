@@ -5,15 +5,23 @@ I will work in branches to keep the code in a single repo.
 
 
 <h2>Completed Days</h2>
+<h2>Completed Days</h2>
 <h3>Day 1: Tuesday, 10 August 2021</h3>
 <ul>
 <li>Set up the repo.</li>
 <li>Wrote some simple python code.</li>
+<li>Completed "Band Name Generator" string handling project.</li>
+</ul>
+
+<h3>Day 2	Wednesday, 11 August 2021</h3>
+<ul>
+<li>Conversion of string to interger type.</li>
+<li>Throw errors if wrong type passed as argument</li>
+<li>Unit tests for this function.</li>
 </ul>
 
 <strong>Remaining Days:</strong>
 <em>
-Day 2	Wednesday, 11 August 2021
 Day 3	Thursday, 12 August 2021
 Day 4	Friday, 13 August 2021
 Day 5	Saturday, 14 August 2021
