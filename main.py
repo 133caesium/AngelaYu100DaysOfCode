@@ -9,5 +9,13 @@ def sum_digits(twoDigitNumber):
     sum_of_digits = first_digit+second_digit
     return sum_of_digits
 
+def body_mass_index_calculator():
+    height = float(input("enter your height in m:   "))
+    weight = int(input("enter your weight in kg:  "))
+    BMI = round((weight/height**2))
+    print("Your BMI is "+str(BMI))
+    return BMI
+
 if __name__ == '__main__':
     print(sum_digits(10))
+    body_mass_index_calculator()
