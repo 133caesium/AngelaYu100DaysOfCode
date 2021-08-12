@@ -1,10 +1,11 @@
 # AngelaYu100DaysOfCode
 Starting a #100DaysOfCode challenge to improve my python coding.
 
-I will work in branches to keep the code in a single repo.
+I was motivated to start this challenge by <a href="https://twitter.com/yu_angela">Angela Yu's</a> 100 Days of Python course. 
+
+I will work in branches to keep the code in a single repo. I'm currently studying a Masters in Information Technology at the University of Auckland, so will substitute other projects in occasionally.
 
 
-<h2>Completed Days</h2>
 <h2>Completed Days</h2>
 <h3>Day 1: Tuesday, 10 August 2021</h3>
 <ul>
@@ -20,12 +21,15 @@ I will work in branches to keep the code in a single repo.
 <li>Unit tests for this function.</li>
 </ul>
 
+<h3>Day 3	Thursday, 12 August 2021</h3>
+<p>I'm taking a course in Aritifical Intelligence (COMPSCI 761), and we recently discussed the 8 Queens problem. I decided to work on an algortihm to solve it, and strarted this project: <a href="https://github.com/133caesium/8-Queens-Problem">133caesium/8-Queens-Problem</a></p>
+
 <h2>Other Resources:</h2>
 <p>I should probably read <a href="https://www.python.org/dev/peps/pep-0008/">PEP 8</a></p>
 
 <strong>Remaining Days:</strong>
 <em>
-Day 3	Thursday, 12 August 2021
+
 Day 4	Friday, 13 August 2021
 Day 5	Saturday, 14 August 2021
 Day 6	Sunday, 15 August 2021
