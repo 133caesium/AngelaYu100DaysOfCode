@@ -20,6 +20,9 @@ I will work in branches to keep the code in a single repo.
 <li>Unit tests for this function.</li>
 </ul>
 
+<h2>Other Resources:</h2>
+<p>I should probably read <a href="https://www.python.org/dev/peps/pep-0008/">PEP 8</a></p>
+
 <strong>Remaining Days:</strong>
 <em>
 Day 3	Thursday, 12 August 2021
